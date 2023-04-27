@@ -49,9 +49,6 @@ class Book:
         self._name = name
         self.price = price
 
-b = Book("William Faulkner", "The Sound and the Fury", 12)
-
-b.author = " Roma Big Dick 2000"
 
 
 
